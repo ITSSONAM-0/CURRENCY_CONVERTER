@@ -8,7 +8,7 @@ This is a simple and user-friendly **Currency Converter** web app that runs dire
 
 You can view the live demo here:  
 
-👉 [https://currency-converter-demo.netlify.app](https://currency-converter-demo.netlify.app)
+👉 [https://currency-converter-demo.netlify.app](https://itssonam-0.github.io/CURRENCY_CONVERTER/)
 
 ---
 
