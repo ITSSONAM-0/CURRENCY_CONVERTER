@@ -6,7 +6,7 @@ const fromCurr = document.querySelector(".from select");
 const toCurr = document.querySelector(".to select");
 const msg = document.querySelector(".msg");
 
-// Populate select boxes
+
 for (let select of dropdowns) {
   for (let currCode in countryList) {
     let option = document.createElement("option");
